@@ -16,9 +16,9 @@ Carriers which can test if patch works or not by developer immediately
 
 - LG U+ (Republic of Korea)
 
-### 2차 지원
+### Second-grade support
 
-Carriers which aren't possible for testing by developer but reported as supported by community. Please refer the [Link](https://github.com/kyujin-cho/pixel-volte-patch/blob/main/docs/compatibility-chart.en.md) for complete list of carriers.
+Carriers which aren't possible for testing by developer but reported as supported by community. Please refer to the [Link](https://github.com/kyujin-cho/pixel-volte-patch/blob/main/docs/compatibility-chart.en.md) for the complete list of carriers.
 
 ## Applying Patch
 
@@ -33,7 +33,7 @@ Carriers which aren't possible for testing by developer but reported as supporte
 
 #### Optional
 
-only if installing Schizuku using ADB
+only if installing Shizuku using ADB
 
 - Windows, macOS or Linux PC with [Android Platform Tools](https://developer.android.com/studio/command-line/adb) installed
 - USB-A to USB-C or USB-C to USB-C cable to connect Pixel to the PC
